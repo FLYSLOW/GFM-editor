@@ -1,6 +1,6 @@
 # GFM-editor
 
-It's hard to find a markdown editor which is fully compitible with [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown). Why not just use the one provided by Github? Good idea!
+It's hard to find a markdown editor which is fully compatible with [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown). Why not just use the one provided by Github? Good idea!
 
 Bookmark this url: `https://github.com/ZekeLu/GFM-editor/edit/master/editor.md`. Whenever you want to edit a markdown file, open this bookmark and you will get an excellent markdown editor.
 
